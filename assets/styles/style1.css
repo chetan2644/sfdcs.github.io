@@ -1,0 +1,35 @@
+.right-padding {
+    padding-right: 0rem;
+    margin-right: 0px;
+}
+.fixed-nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+  
+    
+  }
+  .fixed-nav-vertical-bar {
+    position: fixed;
+    top:2.6rem;
+    width:15.8%;
+    background-color: white;
+    z-index: 9999;
+    
+  
+    
+  }
+  .margin-of-cards{
+      margin-top:45px;
+  }
+  body{
+      background-color: whitesmoke;
+  }
+  img{
+      height: 200px;
+      width: 200px;
+      border-radius:50%;
+      
+  }
